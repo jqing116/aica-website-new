@@ -1,0 +1,10 @@
+# only the pages and their assets are published here
+_version_control/
+_build/
+staging/
+__pycache__/
+*.pyc
+*.tgz
+*.txt
+.DS_Store
+Thumbs.db
